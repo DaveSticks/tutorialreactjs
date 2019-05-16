@@ -1,7 +1,6 @@
 ## IMPORTANTE
 
 Al descargar el código en la misma carpeta usa el comando:
-\n
 `npm install`
 
 
