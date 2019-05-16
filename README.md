@@ -1,16 +1,13 @@
 ## IMPORTANTE
 
-Al descargar el código en la misma carpeta usa el comando
- `npm install`
+Al descargar el código en la misma carpeta usa el comando:
+\n
+`npm install`
 
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
-\n
 ### `npm start`
 
 Runs the app in the development mode.<br>
