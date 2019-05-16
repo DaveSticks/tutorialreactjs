@@ -1,0 +1,22 @@
+{
+  "tareas": [
+    {
+      "titulo": "Tarea 1",
+      "responsable": "Pedro",
+      "descripcion": "lorem ipsum",
+      "prioridad": "Baja"
+    },
+    {
+      "titulo": "Tarea 2",
+      "responsable": "Juan",
+      "descripcion": "dolor sit amet",
+      "prioridad": "Media"
+    },
+    {
+      "titulo": "Tarea 3",
+      "responsable": "Diego",
+      "descripcion": "consectetur adipiscing elit",
+      "prioridad": "Alta"
+    }
+  ]
+}
